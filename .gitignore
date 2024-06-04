@@ -1,0 +1,12 @@
+# Arquivos gerados automaticamente
+node_modules/
+
+# Arquivos de configuração
+config.json
+.env
+
+# Arquivos de log
+*.log
+
+# Arquivos de compilação
+dist/

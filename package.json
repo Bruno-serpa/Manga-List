@@ -1,0 +1,16 @@
+{
+  "name": "manga_list",
+  "version": "1.0.0",
+  "description": "Apenas recomendo uns de mangás, manhwas e manhuas.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "Dracster Studio",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
+}
